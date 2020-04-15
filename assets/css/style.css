@@ -247,19 +247,53 @@ i {
         
         float: left;
         margin-left: 1%;
-        width: 90%;
+          padding-left: 1%;
+        width: 100%;
          
       }
      
       .button {
         float: left;
-        font-size: 10px;
-          display: inline-block;
+       font-size: 10px;
+          padding-left: 7%;
+         
+          
     }
-   
+     
+     .form-section {
+         height: 90%;
+         width: 90%;
+     }
+     
+ .social-networks li {
+       font-size: 70%;
+     }
 
 
-
+     @media screen and (max-width: 800px) {
+         
+          .social-networks li {
+       font-size: 60%;
+     }
+         
+          #menu {
+        
+        float: left;
+        margin-left: 1%;
+          padding-left: 1%;
+        width: 100%;
+         
+      }
+         
+             .button {
+        float: left;
+       font-size: 9px;
+          padding-left: 6%;
+         
+          
+    }
+         
+     }
 
 
 
