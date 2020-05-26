@@ -10,7 +10,7 @@ Introduction (Home) section has brief information about myself, wrong informatio
 
 Top pictures on each page: I have used zoom effect as we did in “love running” project.
 
-Contact us section applied at the bottom of every page.
+Contact us section applied at the bottom of every page. Color change has been applied when hovered over the social media icons.
 
 Menu (navbar): I have decided to go with buttons here with some effects. I found this button type online and I have adjusted it (color, border radius, font) 
 
