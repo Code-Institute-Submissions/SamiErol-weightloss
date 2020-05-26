@@ -1,11 +1,11 @@
-# PROJECT NAME: WEIGHTLOSS
+# Project Name: Weightloss
  
 Welcome to my page where I shared my journey on weight loss. 
 
-# UX 
+# Ux 
 This website is for individuals who are looking to lose weight with realistic program and results provided. Visiters will find motivation and technique for their journey on weight loss. 
 
-# FEATURES
+# Features
 Introduction (Home) section has brief information about myself, wrong informations given to people and motivation. I wanted to get visitors attention with these 3 realistic informations on the first page of the website.
 
 Top pictures on each page: I have used zoom effect as we did in “love running” project.
@@ -23,26 +23,26 @@ Second page (How To) is about the weight loss technique that is explained briefl
 
 Last page (Free Ebook) is the section where users provide their details to receive the document from me.
 
-# TECHNOLOGIES USED
+# Technologies used
 
 HTML, CSS and Fontawesome has been used for this site. I have avoided using Bootstrap.
 
-# TESTING
+# Testing
 
 I have used Chrome inspect to test and visialize how the site looks on different devices.
 
-# DEPLOYMENT
+# Deployment
 
 I have written my code on different platform and added to Github/Gitpod with the help of online support.
 
-# CREDITS CONTENT
+# Content Credits
 All text has been written by myself that is on the website. No copy paste from any source.
 
-# CREDITS MEDIA
+# Media Credits
 
 All pictures used are taken by myself to avoid copyright violation.
 
-# CREDITS ACKNOWLEDGEMENT
+# Acknowledgement
 
 I have been inspired to do this website based on my success and wanting to help others to achieve their goals as well.
 
